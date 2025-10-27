@@ -10,7 +10,7 @@
 
 - [WAY_iOS](https://github.com/jungseok-corine/WAY_iOS) - 실시간 위치 공유 일정 관리 앱
 - [WorkOut_Log](https://github.com/jungseok-corine/WorkOut_Log) - 운동 기록 앱
-- [aloneDailyQuest](https://github.com/jungseok-corine/aloneDailyQuest) - 혼자 하는 데일리 퀘스트
+- [aloneDailyQuest](https://github.com/jungseok-corine/aloneDailyQuest) - 게임처럼하는 투두리스트 앱
 
 
 ## 📊 GitHub Stats
@@ -27,7 +27,7 @@
 ## 📫 Contact
 
 - Email: fiverights99@gmail.com
-- Blog: [your-blog-url](https://jungseok-corine.github.io/ben-homepage/)
+- Blog: [MY-Homepage](https://jungseok-corine.github.io/ben-homepage/)
 <!--
 **jungseok-corine/jungseok-corine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
