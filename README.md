@@ -1,7 +1,33 @@
-### Hi there 👋
+### 👋 안녕하세요! iOS 개발자 정석입니다
+
+## 🚀 현재 진행 중
+
+- 📱 iOS 개발자 취업 준비 (5개월 챌린지)
+- 📝 매일 TIL 작성 중! → [TIL 보러가기](https://github.com/jungseok-corine/TIL)
+- 💻 SwiftUI 학습 중
+
+## 📚 프로젝트
+
+- [WAY_iOS](https://github.com/jungseok-corine/WAY_iOS) - 실시간 위치 공유 일정 관리 앱
+- [WorkOut_Log](https://github.com/jungseok-corine/WorkOut_Log) - 운동 기록 앱
+- [aloneDailyQuest](https://github.com/jungseok-corine/aloneDailyQuest) - 혼자 하는 데일리 퀘스트
+
+
+## 📊 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungseok-corine)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## 📝 최근 TIL
+
+<!-- TIL 자동 업데이트 -->
+- [2025-10-23: SwiftUI Day 1](https://github.com/jungseok-corine/TIL/blob/main/Week1/Day1.md)
+- [2025-10-24: SwiftUI Day 2](https://github.com/jungseok-corine/TIL/blob/main/Week1/Day2.md)
+
+## 📫 Contact
+
+- Email: fiverights99@gmail.com
+- Blog: [your-blog-url](https://jungseok-corine.github.io/ben-homepage/)
 <!--
 **jungseok-corine/jungseok-corine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
