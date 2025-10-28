@@ -18,12 +18,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungseok-corine)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 📝 최근 TIL
-
-<!-- TIL 자동 업데이트 -->
-- [2025-10-23: SwiftUI Day 1](https://github.com/jungseok-corine/TIL/blob/main/Week1/Day1.md)
-- [2025-10-24: SwiftUI Day 2](https://github.com/jungseok-corine/TIL/blob/main/Week1/Day2.md)
-
 ## 📫 Contact
 
 - Email: fiverights99@gmail.com
