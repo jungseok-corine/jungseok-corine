@@ -3,8 +3,8 @@
 ## 🚀 현재 진행 중
 
 - 📱 iOS 개발자 취업 준비 (5개월 챌린지)
-- 📝 매일 TIL 작성 중! → [TIL 보러가기](https://github.com/jungseok-corine/TIL)
-- 💻 SwiftUI 학습 중(TODO + AI 앱 개발 중)
+- 💻 SwiftUI 학습 중
+- AVFoundation 공부 중
 
 ## 📚 프로젝트
 
