@@ -2,9 +2,8 @@
 
 ## 🚀 현재 진행 중
 
-- 📱 iOS 개발자 취업 준비 (5개월 챌린지)
 - 💻 SwiftUI 학습 중
-- AVFoundation 공부 중
+- AVFoundation 공부 중 [ClipKit](https://github.com/jungseok-corine/ClipKit) - WAY iOS 피드백 적용
 
 ## 📚 프로젝트
 
