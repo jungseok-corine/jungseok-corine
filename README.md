@@ -3,13 +3,12 @@
 ## 🚀 현재 진행 중
 
 - 💻 SwiftUI 학습 중
-- AVFoundation 공부 중 [ClipKit](https://github.com/jungseok-corine/ClipKit) - WAY iOS 피드백 적용
 
 ## 📚 프로젝트
 
 - [WAY_iOS](https://github.com/jungseok-corine/WAY_iOS) - 실시간 위치 공유 일정 관리 앱
-- [WorkOut_Log](https://github.com/jungseok-corine/WorkOut_Log) - 운동 기록 앱
 - [aloneDailyQuest](https://github.com/jungseok-corine/aloneDailyQuest) - 게임처럼하는 투두리스트 앱
+- [ClipKit](https://github.com/jungseok-corine/ClipKit) - WAY iOS 피드백 적용한 비디오 필터 적용앱
 
 
 ## 📊 GitHub Stats
